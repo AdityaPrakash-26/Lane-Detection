@@ -29,3 +29,8 @@ Next, we plan to use the [Canny Algorithm](https://en.wikipedia.org/wiki/Canny_e
 ## Output
 
 https://user-images.githubusercontent.com/55011564/126891188-5b2cd095-0518-4702-8eb3-561bada60047.mp4
+
+## Resources
+- [Hough Transform](https://en.wikipedia.org/wiki/Hough_transform)
+- [OpenCV Docs](https://docs.opencv.org/)
+- [OpenCV Tutorial](https://docs.opencv.org/master/d9/df8/tutorial_root.html)

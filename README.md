@@ -17,7 +17,7 @@ This is a Python command line project made with [Python](https://www.python.org)
 ## How to use
 
 1. The program will automatically detect all lanes/edges in the lower half of the video.
-2. You can use your own video by replace the `input.mp4` file.
+2. Either use a camera, or a recorded video with filename `input.mp4`
 3. Press `q` to exit the program.
 
 ## How it works?
